@@ -1,0 +1,6 @@
+jupyterlab
+nltk==3.10.3
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+spacy==3.8.7
